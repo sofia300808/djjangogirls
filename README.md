@@ -1,2 +1,1 @@
-# djjangogirls
-djjngogirls
+# djjang
